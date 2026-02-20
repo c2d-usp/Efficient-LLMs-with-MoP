@@ -11,7 +11,14 @@ MoP (Mixture of Pruners) is a method that combines the strengths of both depth a
 
 Comparison between the original (unpruned) LLaVA-1.5 (7.06B parameters) and the pruned version using MoP (5.71B parameters):
 
+
+https://github.com/user-attachments/assets/a7a41bf8-9775-40b2-aa5b-88f675354c81
+
+
 Comparison between the original (unpruned) LLaMA-3-8B and the 40% pruned version using MoP (4.74B parameters):
+
+
+https://github.com/user-attachments/assets/da76394d-d1c8-47e2-9c77-5d3416d9666c
 
 
 ## Repository structure
